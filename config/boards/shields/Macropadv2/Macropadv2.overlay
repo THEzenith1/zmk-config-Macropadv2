@@ -1,8 +1,8 @@
 / {
     chosen {
         zmk,kscan = &defualt_kscan;
-
     };
+
     defualt_kscan: kscan {
         compatible = "zmk,kscan-gpio-direct";
         label = "defualt_kscan";
@@ -19,7 +19,7 @@
         <&xiao_d 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>,
         <&xiao_d 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>,
         <&xiao_d 10 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>,
-        <&xiao_d 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+        <&xiao_d 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>;
 
     };
 
