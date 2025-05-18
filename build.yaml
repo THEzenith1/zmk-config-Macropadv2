@@ -20,4 +20,4 @@
 ---
 include:
   - board: seeeduino_xiao
-    shield: two_percent_milk
+    shield: Macropadv2
