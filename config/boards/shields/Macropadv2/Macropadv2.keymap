@@ -14,7 +14,7 @@
         default_layer {
             display-name = "base";
             bindings = <
-                &kp A    // key 0 (GPIO0 pin 2)
+                &studio_unlock     // key 0 (GPIO0 pin 2)
                 &kp B    // key 1 (GPIO0 pin 3)
                 &kp C    // key 2 (GPIO0 pin 4)
                 &kp D    // key 3 (GPIO0 pin 5)
