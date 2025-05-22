@@ -24,7 +24,7 @@
                 &kp H    // key 7 (GPIO0 pin 5)
                 &kp I    // key 8 (GPIO0 pin 2)
                 &kp J    // key 9 (GPIO0 pin 3)
-                &kp K    // key 9 (GPIO0 pin 3)
+                &kp K    // key 10 (GPIO0 pin 3)
 
             >;
         };
