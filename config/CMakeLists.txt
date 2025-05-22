@@ -1,0 +1,1 @@
+set(ZMK_EXTRA_SNIPPETS studio-rpc-usb-uart)
