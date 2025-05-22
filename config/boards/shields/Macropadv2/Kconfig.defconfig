@@ -1,6 +1,6 @@
 if SHIELD_MACROPADV2
 
 config Macropadv2
-    defualt "Macropadv2"
+    default "Macropadv2"
 
 endif
