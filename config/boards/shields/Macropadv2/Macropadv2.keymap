@@ -14,17 +14,16 @@
         default_layer {
             display-name = "base";
             bindings = <
-                &studio_unlock     // key 0 (GPIO0 pin 2)
-                &kp B    // key 1 (GPIO0 pin 3)
-                &kp C    // key 2 (GPIO0 pin 4)
-                &kp D    // key 3 (GPIO0 pin 5)
-                &kp E    // key 4 (GPIO0 pin 2)
-                &kp F    // key 5 (GPIO0 pin 3)
-                &kp G    // key 6 (GPIO0 pin 4)
-                &kp H    // key 7 (GPIO0 pin 5)
-                &kp I    // key 8 (GPIO0 pin 2)
-                &kp J    // key 9 (GPIO0 pin 3)
-                &kp K    // key 10 (GPIO0 pin 3)
+                &kp B   
+                &kp C 
+                &kp D  
+                &kp E   
+                &kp F   
+                &kp G   
+                &kp H    
+                &kp I   
+                &kp J   
+                &kp K    
 
             >;
         };
